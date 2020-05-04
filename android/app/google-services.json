@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "919908329193",
+    "firebase_url": "https://coffee-crew-138d6.firebaseio.com",
+    "project_id": "coffee-crew-138d6",
+    "storage_bucket": "coffee-crew-138d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919908329193:android:b492102ec12c46261a7278",
+        "android_client_info": {
+          "package_name": "com.dave.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919908329193-2l7mpqmcn8d8fg8ok61uibqhh9uj730e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDHPy1MbKdIBdnlTqvTI4y3IAfGQtd9sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919908329193-2l7mpqmcn8d8fg8ok61uibqhh9uj730e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919908329193:android:c7676589491228af1a7278",
+        "android_client_info": {
+          "package_name": "com.psychforlife.pflhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919908329193-2l7mpqmcn8d8fg8ok61uibqhh9uj730e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDHPy1MbKdIBdnlTqvTI4y3IAfGQtd9sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919908329193-2l7mpqmcn8d8fg8ok61uibqhh9uj730e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
