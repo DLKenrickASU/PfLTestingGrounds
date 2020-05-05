@@ -35,7 +35,7 @@ class _SettingsFormState extends State<SettingsForm> {
               key: _formKey,
               child: Column(
                 children: <Widget>[
-                  SizedBox(height: 20.0),
+                  SizedBox(height: 50.0),
                   Text('Update your goal settings.',
                       style: TextStyle(fontSize: 18.0)),
                   SizedBox(height: 20.0),
@@ -58,6 +58,8 @@ class _SettingsFormState extends State<SettingsForm> {
                     onChanged: (val) => setState(() => _currentGoal = val),
                   ),
                   SizedBox(height: 20.0),
+                  Text('for'),
+                  SizedBox(height: 20.0),
                   SizedBox(
                     height: 80,
                     width: 250,
@@ -67,11 +69,11 @@ class _SettingsFormState extends State<SettingsForm> {
                       });
                     }),
                   ),
-                  SizedBox(
-                    height: 150,
-                    width: 250,
-                    child: TimerPage(),
-                  ),
+                  //SizedBox(
+                  //  height: 150,
+                  //  width: 250,
+                    //child: TimerPage(),
+                 // ),
                   SizedBox(height: 20.0),
                   RaisedButton(
                       color: Colors.pink[400],
